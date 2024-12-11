@@ -10,7 +10,7 @@ ___
 ## Тестирование программы
 Запуск: в качестве примера возьмем пакет curl
 
-![test](https://github.com/d1nech/KonfUpravlenie/blob/main/HW%20№2/img/zapusk.png?raw=true)
+![test](https://github.com/kseniauuy/konfupr2/blob/main/img/zapusk.png?raw=true)
 
 Получаем на выходе 2 файла:
 
